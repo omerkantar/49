@@ -1,0 +1,12 @@
+/* 
+  Localization.strings
+  Orlo
+
+  Created by omer on 4.08.2016.
+  Copyright © 2016 omer. All rights reserved.
+*/
+
+"txt_splash_title" = "sevmekten korkma";
+"txt_info_title" = "MERHABA";
+"txt_info_description" = "12 Haziran 2016 \n Orlando'da gerçekleşen terror saldırısında hayatını kayıp edenlerin anısına geliştirilmiş bir hikayedir. 49 yıldızın ulaşılması ile hikaye bitmektedir. ";
+"txt_game_info" = "cihazı haraket ettiriniz";
